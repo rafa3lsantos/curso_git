@@ -2,4 +2,6 @@
 git init: cria alguns arquivos e faz da pasta selecionada um repositório
 git add: para add um arquivo no repositorio
 git push: envio de arquivos
-git status: verificar as mudanças do projeto kkk
+git status: verificar as mudanças do projeto 
+git pull: puxa os arquivos de repositorio para o local
+git clone: clona o repositorio 
