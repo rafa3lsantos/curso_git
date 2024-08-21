@@ -6,3 +6,5 @@ git status: verificar as mudanças do projeto
 git pull: puxa os arquivos de repositorio para o local
 git clone: clona o repositorio 
 git rm: remover arquivos
+git branch: Verifica os branchs disponiveis
+git branch <nome>: Cria um branch	
