@@ -15,3 +15,4 @@ git checkout -b <nome>: Muda para outro branch
 -a: tudo
 -m: mensagem
 -d: deletar
+-u set upstream
