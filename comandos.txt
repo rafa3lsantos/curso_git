@@ -8,3 +8,10 @@ git clone: clona o repositorio
 git rm: remover arquivos
 git branch: Verifica os branchs disponiveis
 git branch <nome>: Cria um branch	
+git checkout -b <nome>: Muda para outro branch
+
+
+			FLAGS DO GIT
+-a: tudo
+-m: mensagem
+-d: deletar
